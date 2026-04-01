@@ -23,7 +23,7 @@ CSI 데이터 파싱 과정에서 배열 인덱스 오류 발생
 
 ## 🔗 관련 Issue
 
-Closes #
+* Closes #
 
 ---
 

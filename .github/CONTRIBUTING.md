@@ -14,19 +14,19 @@ main
 develop  
 → 개발 통합 브랜치
 
-feature/*  
+feature#*
 → 기능 개발
 
-bugfix/*  
+bugfix#*
 → 버그 수정
 
-refactor/*  
+refactor#*
 → 코드 개선
 
 예시
 
-feature/csi-preprocessing  
-bugfix/mqtt-timeout
+feature#csi-preprocessing  
+bugfix#mqtt-timeout
 
 ---
 

@@ -27,7 +27,7 @@
 
 ## 🔗 관련 Issue
 
-Closes #
+* Closes #
 
 ---
 
